@@ -1,4 +1,6 @@
 # Talk
 Chat-app
 
-This application is build using nodejs , handlebar and socket io. with same room number we can able to talk with each-other.
+technology:- nodejs, socketio
+
+This chat application is done using socket.io where multiple user can chat with each other with same room number.
